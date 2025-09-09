@@ -1,0 +1,9 @@
+body{margin:0; color: white;background-color: rgb(3, 124, 139);}
+nav{background-color:green; padding:20px;  display:flex; flex-flow: row wrap; justify-content: center; gap:50px;}
+.url{color:white; text-decoration: none;}
+.fondo-estatico{ 
+width:100%;
+    background-attachment: fixed , scroll;
+    background-size: cover;
+    background-position: center;
+}
