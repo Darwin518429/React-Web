@@ -9,11 +9,6 @@ import "slick-carousel/slick/slick-theme.css";
 //formulario pocho
 export function Formulario() {
     const [boton, setboton] = useState("");
-
-    const [nombre, setNombre] = useState("");
-  
-  const [mensaje, setMensaje] = useState("");
-
     function alerta() {
         setboton(alert("Formulario enviado"));
     }
