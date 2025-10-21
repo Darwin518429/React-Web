@@ -14,7 +14,17 @@ Durante el desarrollo, también aproveché las ventajas del enrutado dinámico, 
 -  JS
 - REACT
 
+#### Como Abrir
 
+
+### Como ejecutarlo
+1. ` cd React-Web`
+
+2. ` npm install`
+
+3. ` npm run dev`
+
+4. Abrir el navegador y poner ` http://localhost:5173/`
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
