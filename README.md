@@ -3,14 +3,6 @@
 
 ![](https://es.vite.dev/logo.svg) 
 
-
-
-# Web con React
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png)
-
-![](https://es.vite.dev/logo.svg) 
-
 En este proyecto desarrollé una aplicación web utilizando React y Vite. Elegí Vite como entorno de desarrollo por su gran velocidad en la compilación, su sistema de recarga automática y su sencilla configuración, lo que permitió un flujo de trabajo ágil y eficiente.
 
 
